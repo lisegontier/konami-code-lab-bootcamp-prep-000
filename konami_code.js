@@ -11,8 +11,12 @@ function init() {
        i++;
        
        if (i === code.length) {
-         alert
+         alert("You rock!!!");
+         
+         i = 0;
        }
+     } else {
+       i = 0;
      }
   }
 }
