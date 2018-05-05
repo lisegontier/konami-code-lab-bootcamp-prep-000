@@ -15,9 +15,9 @@ function init() {
          
          i = 0;
        }
-     })
+     
      } else {
        i = 0;
      }
-  }
+  });
 }
